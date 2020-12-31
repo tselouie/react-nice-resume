@@ -73,7 +73,7 @@ class Resume extends Component {
       });
 
       var skills = this.props.data.skills
-        .sort((a, b) => (a.level < b.level ? 1 : -1))
+        .sort((a, b) => (a.level > b.level ? 1 : -1))
         .map(skills => {
           var className = "bar-expand " + skills.name.toLowerCase();
           return (
