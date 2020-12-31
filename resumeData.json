@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Louie Tse",
-    "description": "Recent Graduate | Software Developer | Java | Javascript | ReactJS | Jenkins | Servoy | GIT / SVN | Photoshop | A+ Certified | CCNA Certified",
+    "description": "Recent Graduate | Software Developer | Java | Javascript | ReactJS | Jenkins | Servoy | GIT / SVN | Photoshop | CompTIA A+ | CCNA",
     "image": "profilepic.JPG",
     "bio": "I love working on projects on Github, having learnt GIT has been a huge boon to my coding productivity. Utilizing GIT to start, and contribute to others' projects, I can say that GIT is my preferred tool for version control system.",
     "bio2": "I have a diverse set of skills, ranging from image editing(Photoshop), to design(HTML + CSS + Javascript), to component creation(React) all the way to deployment on a VM.",
@@ -33,7 +33,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Languages & Tools I currently know and use",
     "education": [
       {
         "school": "Seneca College",
@@ -159,15 +159,15 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Boardgame Guru",
+        "category": "Boardgame platform for trading and arranging events for BoardgameGeek account holders",
+        "image": "theboardgameguruThumbnail.jpg",
+        "url": "https://www.theboardgameguru.com"
       },
       {
-        "title": "Fury Fighting Gear",
+        "title": "Eez Commerce",
         "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
+        "image": "eezcommerceTN.jpg",
         "url": "http://www.timbakerdev.com"
       },
       {
