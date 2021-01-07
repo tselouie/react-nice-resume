@@ -29,12 +29,7 @@ class Contact extends Component {
 
         <div className="row">
           <div className="eight columns">
-            <form
-              action="mailto:tselouie@gmail.com"
-              method="post"
-              id="contactForm"
-              name="contactForm"
-            >
+            <form action="" method="post" id="contactForm" name="contactForm">
               <fieldset>
                 <div>
                   <label htmlFor="contactName">
