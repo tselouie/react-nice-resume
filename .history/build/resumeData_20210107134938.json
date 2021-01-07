@@ -7,7 +7,7 @@
     "bio2": "I have a diverse set of skills, ranging from image editing(Photoshop), to design(HTML + CSS + Javascript), to component creation(React) all the way to deployment on a VM.",
     "contactmessage": "Contact me :)",
     "email": "tselouie@gmail.com",
-    "phone": "(647) 501-0901",
+    "phone": "(647)501-0901",
     "github": "https://www.linkedin.com/in/tselouie/",
     "project": "https://github.com/nordicgiant2/react-nice-resume",
     "address": {
@@ -16,7 +16,7 @@
       "state": "ON",
       "zip": "L4E4Z3"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "",
     "resumedownload": "./assets/LouieTseResume2020.pdf",
     "social": [
       {
@@ -166,7 +166,7 @@
       },
       {
         "title": "Eez Commerce",
-        "category": "A Commerce platform project where someone could easily answer a few questions and the website would be made using templates. With the addition to manage their products.",
+        "category": "(offline now) A fighting gear company I started",
         "image": "eezcommerceTN.jpg",
         "url": "http://www.timbakerdev.com"
       },
