@@ -467,11 +467,12 @@ ul#nav li.current a {
 
 /* Portfolio Content */
 #portfolio-wrapper .columns {
-  margin-bottom: 36px;
+  margin-bottom: 32px;
 }
 .portfolio-item .item-wrap {
   background: #fff;
   overflow: hidden;
+  height: 200px;
   position: relative;
 
   -webkit-transition: all 0.3s ease-in-out;
@@ -507,8 +508,8 @@ ul#nav li.current a {
 .portfolio-item .item-wrap .link-icon {
   display: block;
   color: #fff;
-  height: 30px;
-  width: 30px;
+  height: 50px;
+  width: 50px;
   font-size: 18px;
   line-height: 30px;
   text-align: center;
@@ -530,6 +531,9 @@ ul#nav li.current a {
 }
 .portfolio-item .item-wrap img {
   vertical-align: bottom;
+  height: 200px;
+  width: 300px;
+  object-fit: contain;
 }
 .portfolio-item .portfolio-item-meta {
   padding: 18px;
