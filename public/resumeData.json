@@ -72,7 +72,7 @@
         "company": "First Student",
         "img": "./images/assets/fs.png",
         "title": "Data Clerk",
-        "years": "Apr 2015 - February 2015",
+        "years": "February 2015 - April 2015",
         "description": [
           "Surpassed individual goals by entering over 50 booking/credit entries (CHASE Paymentech) daily",
           "Discovered bypass in booking system which increased team output speed"
@@ -168,7 +168,7 @@
         "title": "Eez Commerce",
         "category": "A Commerce platform project where someone could easily answer a few questions and the website would be made using templates. With the addition to manage their products.",
         "image": "eezcommerceTN.jpg",
-        "url": "https://eezcommerce.uc.r.appspot.com/"
+        "url": "http://eez.cataldo.ca/"
       }
     ]
   }

@@ -1,14 +1,14 @@
 {
   "main": {
     "name": "Louie Tse",
-    "description": "Recent Graduate | Software Developer | Java | Javascript | ReactJS | Jenkins | Servoy | GIT / SVN | Photoshop | A+ Certified | CCNA Certified",
+    "description": "Recent Graduate | Software Developer | Java | Javascript | ReactJS | Jenkins | Servoy | GIT / SVN | Photoshop | CompTIA A+ | CCNA",
     "image": "profilepic.JPG",
     "bio": "I love working on projects on Github, having learnt GIT has been a huge boon to my coding productivity. Utilizing GIT to start, and contribute to others' projects, I can say that GIT is my preferred tool for version control system.",
     "bio2": "I have a diverse set of skills, ranging from image editing(Photoshop), to design(HTML + CSS + Javascript), to component creation(React) all the way to deployment on a VM.",
     "contactmessage": "Contact me :)",
     "email": "tselouie@gmail.com",
-    "phone": "(647)501-0901",
-    "github": "https://www.linkedin.com/in/tselouie/",
+    "phone": "(647) 501-0901",
+    "github": "https://github.com/tselouie",
     "project": "https://github.com/nordicgiant2/react-nice-resume",
     "address": {
       "street": "217 Silver Maple Rd",
@@ -72,7 +72,7 @@
         "company": "First Student",
         "img": "./images/assets/fs.png",
         "title": "Data Clerk",
-        "years": "Apr 2015 - February 2015",
+        "years": "February 2015 - April 2015",
         "description": [
           "Surpassed individual goals by entering over 50 booking/credit entries (CHASE Paymentech) daily",
           "Discovered bypass in booking system which increased team output speed"
@@ -159,34 +159,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Boardgame Guru",
+        "category": "Boardgame platform for trading and arranging events for BoardgameGeek account holders",
+        "image": "theboardgameguruThumbnail.jpg",
+        "url": "https://www.theboardgameguru.com"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "Eez Commerce",
+        "category": "A Commerce platform project where someone could easily answer a few questions and the website would be made using templates. With the addition to manage their products.",
+        "image": "eezcommerceTN.jpg",
+        "url": "http://eez.cataldo.ca/"
       }
     ]
   }
